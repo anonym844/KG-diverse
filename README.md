@@ -1,5 +1,5 @@
 # KG-diverse
-The dataset are available in [Google Drive](https://drive.google.com/drive/folders/11MyW_NGHKgNjg2iCBSpqYPveCBCcVxQO?usp=sharing)
+The dataset are available in [Google Drive](https://drive.google.com/drive/folders/12YF4oP17rz0GtCYwCer8smfQeGtsAQSp?usp=sharing)
 
 
 # How to use
